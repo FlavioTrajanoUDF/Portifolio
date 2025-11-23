@@ -3,7 +3,7 @@ Portifólio
 Portifólio de Flávio Vinicius Vieira Trajano
 Cursando Bacharelado em Ciência da Computação - UDF (Universidade do Distrito Ferderal)
 ---------------------------------------------------------------
-	Apresenta projetos que possam ser relevantes para a avaliação do autor na área de TI.
+Apresenta projetos que possam ser relevantes para a avaliação do autor na área de TI.
 Os projetos até o momento incluem:
 
 * Código em C que reordena números aleatórios e da uma avalicação de tempo e passos. (Algoritimos e Pensamento Computacional).
